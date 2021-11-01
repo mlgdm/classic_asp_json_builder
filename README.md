@@ -44,7 +44,7 @@ print(jb.getJson())
 	"sons": ["percy", "atlas"],
 	"power": [
 	  	{
-			"power": "Boot Slap",
+			"power": "Booty Slap",
 			"damage": 4000
 		},
 		{
