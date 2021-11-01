@@ -30,6 +30,8 @@ jb.startCreation
   jh.endArrayData
   
 jb.endCreation
+
+print(jb.getJson())
 ```
 
 ### Output
