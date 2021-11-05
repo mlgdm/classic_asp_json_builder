@@ -31,7 +31,8 @@ jb.startCreation
   
 jb.endCreation
 
-print(jb.getJson())
+Response.ContentType = "application/json"
+Response.write(jb.getJson())
 ```
 
 ### Output
